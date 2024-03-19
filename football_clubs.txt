@@ -1,0 +1,32 @@
+A,Copenhagen,1582
+A,Galatasaray,1668
+A,Manchester United,1811
+A,Bayern Munich,1950
+B,Sevilla,1674
+B,Lens,1746
+B,PSV Eindhoven,1773
+B,Arsenal FC,1871
+C,Braga,1717
+C,FC Union Berlin,1759
+C,SSC Napoli,1924
+C,Real Madrid,1942
+D,RB Salzburg,1760
+D,Real Sociedad,1772
+D,Benfica,1848
+D,Inter Milan,1917
+E,Celtic,1694
+E,Lazio,1750
+E,Feyenoord,1766
+E,Atletico Madrid,1850
+F,Paris Saint-Germain,1791
+F,Newcastle United,1819
+F,AC Milan,1821
+F,Borussia Dortmund,1848
+G,Young Boys,1629
+G,FK Red Star Belgrade,1748
+G,RB Leipzig,1839
+G,Manchester City,2086
+H,Antwerp,1591
+H,Shaktar Donetsk,1724
+H,Barcelona,1865
+H,FC Porto,1869
